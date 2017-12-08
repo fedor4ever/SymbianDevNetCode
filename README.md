@@ -6,3 +6,6 @@ This package contains the source files which implement a run-time version of Ana
 
 ## AnalyseHeap Utility
 This tool analyses the contents of Symbian OS heaps to produce meaningful representations of their structure and content. It reads in the heap file, and walks the heap structure contained in it. From this, it builds a set of all the allocated and free heap cells. These are then cross referenced so that ownership relationships can be identified.
+
+## C++ Template Source Generators
+This package contains utilities (Perl scripts) capable of automatically generating C++ template source code for various purposes in order to assist the developers.
