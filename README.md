@@ -9,3 +9,7 @@ This tool analyses the contents of Symbian OS heaps to produce meaningful repres
 
 ## C++ Template Source Generators
 This package contains utilities (Perl scripts) capable of automatically generating C++ template source code for various purposes in order to assist the developers.
+
+## ProfileEngine
+This contains the source code for a lightweight profiling tool which can be linked to an application or library under development.
+It does not require modification of the ROM, so it is useful when developing with an SDK or production device.
